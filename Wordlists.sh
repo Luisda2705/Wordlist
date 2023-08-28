@@ -1,3 +1,6 @@
+mkdir wordlists
+cd wordlists
+
 git clone https://github.com/Karanxa/Bug-Bounty-Wordlists.git && 
 git clone https://github.com/xsuperbug/payloads.git && 
 git clone https://github.com/payloadbox/xss-payload-list.git && 
