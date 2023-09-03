@@ -23,7 +23,6 @@ git clone https://github.com/p0dalirius/webapp-wordlists.git &&
 git clone https://github.com/3ndG4me/KaliLists.git && 
 git clone https://github.com/jeanphorn/wordlist.git && 
 git clone https://github.com/Bo0oM/fuzz.txt.git && 
-git clone https://github.com/sh377c0d3/Payloads.git && 
 git clone https://github.com/foospidy/payloads.git && 
 git clone https://github.com/lutfumertceylan/top25-parameter.git && 
 git clone https://github.com/TheKingOfDuck/fuzzDicts.git && 
