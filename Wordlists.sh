@@ -33,6 +33,3 @@ git clone https://github.com/daffainfo/AllAboutBugBounty.git &&
 git clone https://github.com/waldemarnt/http-status-codes && 
 git clone https://github.com/random-robbie/bruteforce-lists.git && 
 git clone https://github.com/sh377c0d3/Payloads.git &&
-git clone https://github.com/foospidy/payloads.git &&
-git clone https://github.com/trickest/wordlists.git
-
