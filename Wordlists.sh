@@ -1,3 +1,4 @@
+cd $HOME
 mkdir wordlists
 cd wordlists
 
