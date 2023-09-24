@@ -20,7 +20,6 @@ git clone https://github.com/payloadbox/csv-injection-payloads.git &&
 git clone https://github.com/payloadbox/directory-payload-list.git && 
 git clone https://github.com/hussein98d/LFI-files.git && 
 git clone https://github.com/chrislockard/api_wordlist.git && 
-git clone https://github.com/p0dalirius/webapp-wordlists.git && 
 git clone https://github.com/3ndG4me/KaliLists.git && 
 git clone https://github.com/jeanphorn/wordlist.git && 
 git clone https://github.com/Bo0oM/fuzz.txt.git && 
