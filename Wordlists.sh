@@ -7,7 +7,6 @@ git clone https://github.com/xsuperbug/payloads.git &&
 git clone https://github.com/payloadbox/xss-payload-list.git && 
 git clone https://github.com/xajkep/wordlists.git && 
 git clone https://github.com/fuzzdb-project/fuzzdb.git && 
-git clone https://github.com/six2dez/OneListForAll.git && 
 git clone https://github.com/kennyn510/wpa2-wordlists.git && 
 git clone https://github.com/berzerk0/Probable-Wordlists.git && 
 git clone https://github.com/ayoubfathi/leaky-paths.git && 
@@ -31,4 +30,5 @@ git clone https://github.com/cujanovic/Open-Redirect-Payloads.git &&
 git clone https://github.com/daffainfo/AllAboutBugBounty.git && 
 git clone https://github.com/waldemarnt/http-status-codes && 
 git clone https://github.com/random-robbie/bruteforce-lists.git && 
-git clone https://github.com/sh377c0d3/Payloads.git
+git clone https://github.com/sh377c0d3/Payloads.git &&
+git clone https://github.com/six2dez/OneListForAll.git
